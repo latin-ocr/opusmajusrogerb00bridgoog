@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusmajusrogerb00bridgoog/opusmajusrogerb00bridgoog_0417.png"; bbox 0 0 2350 3580; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 390 356 1490 534">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 390 356 1490 534">
+     <span class='ocr_line' id='line_1_1' title="bbox 390 356 1490 534; baseline 0 3046"><span class='ocrx_word' id='word_1_1' title='bbox 390 356 1490 534; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 462 1375 1723 1585">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 462 1375 1723 1585">
+     <span class='ocr_line' id='line_1_2' title="bbox 850 1375 1330 1430; baseline -0.002 -1"><span class='ocrx_word' id='word_1_2' title='bbox 850 1375 1330 1430; x_wconf 83' lang='lat' dir='ltr'>TRACTATUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 462 1522 1723 1585; baseline -0.001 -2"><span class='ocrx_word' id='word_1_3' title='bbox 462 1524 827 1583; x_wconf 91' lang='lat' dir='ltr'><strong>FRATRI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 846 1524 890 1584; x_wconf 88' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_5' title='bbox 951 1524 1319 1585; x_wconf 86' lang='lat' dir='ltr'>R-OGERI</span> <span class='ocrx_word' id='word_1_6' title='bbox 1387 1522 1646 1583; x_wconf 87' lang='lat' dir='ltr'><strong>BACO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1665 1523 1723 1582; x_wconf 93' lang='lat' dir='ltr'>N</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 537 1811 1651 1861">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 537 1811 1651 1861">
+     <span class='ocr_line' id='line_1_4' title="bbox 537 1811 1651 1861; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 537 1814 587 1860; x_wconf 93' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_9' title='bbox 597 1813 1190 1861; x_wconf 85' lang='lat' dir='ltr'>ULTIPLICATIONE</span> <span class='ocrx_word' id='word_1_10' title='bbox 1235 1813 1435 1861; x_wconf 88' lang='lat' dir='ltr'>SPECI</span> <span class='ocrx_word' id='word_1_11' title='bbox 1446 1811 1651 1859; x_wconf 88' lang='lat' dir='ltr'>ERUM</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
